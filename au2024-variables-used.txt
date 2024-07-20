@@ -1,0 +1,15 @@
+Kidney
+Estimated glomerular filtration rate 
+Physical activity
+Drinking status
+alcohol
+Age
+BMI
+Sex
+Rece; Hispanic; Race
+Educational Level
+Marital
+marriage
+Fish
+Uric Acid
+Hyperuricemia

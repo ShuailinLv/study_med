@@ -14,7 +14,7 @@ import os
 # print(f"Data has been successfully written to {csv_file}")
 
 
-dietary_data_path = r'C:/Users/lvshu/Desktop/2024/NHANES-2003-2004/DietaryData'
+dietary_data_path = r'C:/Users/lvshu/Desktop/2024/NHANES-2003-2004/QuestionnaireData'
 dietary_xpts = os.listdir(dietary_data_path)
 
 for xpt in dietary_xpts:

@@ -1,0 +1,238 @@
+{
+    "Kidney": [
+        [
+            "Q8. Kidney disease requiring renal dialysis?",
+            "OHQ144",
+            "OHXREF_C",
+            "ExaminationData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L24PP_C",
+            "LaboratoryData"
+        ],
+        [
+            "Propylenethio urea (ug/L)",
+            "URXPTU",
+            "L26UPP_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L26UPP_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L06PHY_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L04PER_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary Perchlorate",
+            "URXUP8",
+            "L04PER_C",
+            "LaboratoryData"
+        ],
+        [
+            "Barium, urine (ng/mL).",
+            "URXUBA",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Beryllium, urine (ng/mL).",
+            "URXUBE",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Cadmium, urine (ng/mL).",
+            "URXUCD",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL).",
+            "URXUCR",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Cesium, urine (ng/mL).",
+            "URXUCS",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Molybdenum, urine (ng/mL).",
+            "URXUMO",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Lead, urine (ng/mL).",
+            "URXUPB",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Platinum, urine (ng/mL).",
+            "URXUPT",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Antimony, urine (ng/mL).",
+            "URXUSB",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Thallium, urine (ng/mL).",
+            "URXUTL",
+            "L06HM_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L06UIO_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary Arsenobetaine (ug/L)",
+            "URXUAB",
+            "L06UAS_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary Arsenocholine (ug/L)",
+            "URXUAC",
+            "L06UAS_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary total Arsenic (ug/L)",
+            "URXUAS",
+            "L06UAS_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary Arsenous acid (ug/L)",
+            "URXUAS3",
+            "L06UAS_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L06UAS_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L06UHG_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L16_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (umol/L)",
+            "URXUCRSI",
+            "L16_C",
+            "LaboratoryData"
+        ],
+        [
+            "Albumin, urine (ug/mL)",
+            "URXUMA",
+            "L16_C",
+            "LaboratoryData"
+        ],
+        [
+            "Albumin, urine (mg/L) SI",
+            "URXUMASI",
+            "L16_C",
+            "LaboratoryData"
+        ],
+        [
+            "Urinary creatinine",
+            "URXUCR",
+            "L24EPH_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L24PH_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L26OPD_C",
+            "LaboratoryData"
+        ],
+        [
+            "Creatinine, urine (mg/dL)",
+            "URXUCR",
+            "L31PAH_C",
+            "LaboratoryData"
+        ],
+        [
+            "Blood urea nitrogen (mmol/L)",
+            "LBDSBUSI",
+            "L40_C",
+            "LaboratoryData"
+        ],
+        [
+            "Uric acid (umol/L)",
+            "LBDSUASI",
+            "L40_C",
+            "LaboratoryData"
+        ],
+        [
+            "Blood urea nitrogen (mg/dL)",
+            "LBXSBU",
+            "L40_C",
+            "LaboratoryData"
+        ],
+        [
+            "Uric acid (mg/dL)",
+            "LBXSUA",
+            "L40_C",
+            "LaboratoryData"
+        ],
+        [
+            "{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had weak or failing kidneys? Do not include kidney stones, bladder infections, or incontinence.",
+            "KIQ022",
+            "KIQ_U_C",
+            "QuestionnaireData"
+        ],
+        [
+            "In the past 12 months, {have you/has SP} received dialysis (either hemodialysis or peritoneal dialysis)?",
+            "KIQ025",
+            "KIQ_U_C",
+            "QuestionnaireData"
+        ],
+        [
+            "How old (were you/was SP) when kidney cancer was first diagnosed?",
+            "MCQ240J",
+            "MCQ_C",
+            "QuestionnaireData"
+        ]
+    ]
+}
