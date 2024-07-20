@@ -1,0 +1,1 @@
+currend_wd <- getwd()
