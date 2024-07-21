@@ -38,7 +38,7 @@ def get_match_filename_from_db_dict(target_variable, db_dict, folder_name=''):
 
         # 计算语义相似度
         similarity = util.pytorch_cos_sim(embedding1, embedding2)
-        if float(similarity[0][0].data) < 0.4:
+        if float(similarity[0][0].data) < 0.2:
             continue
         print('------------------------------------------------', similarity, target_variable, '-- vs --', '\"', variable_descriptions[i], '\"')
         ret_variable_names.append(variable_names[i])
@@ -92,9 +92,9 @@ if __name__ == '__main__':
             for i, _ in enumerate(variable_names):
                 result_xpt_file_names.append([ret_variable_descriptions[i], variable_names[i], data_file_names[i], 'QuestionnaireData'])
     
-    all_json_dict[variable] = result_xpt_file_names
+        all_json_dict[variable] = result_xpt_file_names
     # 将字典写入JSON文件
-    with open("preprocess.json", 'w', encoding='utf-8') as json_file:
+    with open("preprocess_result.json", 'w', encoding='utf-8') as json_file:
         json.dump(all_json_dict, json_file, ensure_ascii=False, indent=4)
 
 
